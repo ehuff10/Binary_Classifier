@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Model artifacts (optional - ignore if you don't want .npz files tracked)
+*.npz
+
+# Temporary files
+*.tmp
+*.swp
+
